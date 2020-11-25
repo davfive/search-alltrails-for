@@ -1,2 +1,2 @@
 # search-alltrails-for
-Chrome Extension
+Simple Chrome Extension to do a google search on alltrails.com for the selected text.
